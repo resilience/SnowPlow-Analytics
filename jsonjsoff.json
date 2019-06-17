@@ -1,0 +1,33 @@
+{
+"id": "12345",
+"type": "event",
+"name": "click",
+"12345": 
+          {
+            "primary": true,
+            "image":
+              {
+                "url": "images/0001.jpg",
+                "width": 200,
+                "height": 200
+              },
+            "thumbnail":
+              {
+                "url": "images/thumbnails/0001.jpg",
+                 "width": 32,
+                 "height": 32
+              },
+            "root": "acme.com"
+          }
+}
+
+
+
+Line 4 :  fixed wrong quotation mark usage
+Line 5 : replaced ; with :
+line 7 : primary should have " " wrapping text
+Line 12 : removed extra , 
+Line 20 : should be double qoutes
+Line 21 : extra } 
+
+Between Line 3-4 : Had an unidentified error - so I rewrote it for posterity.
