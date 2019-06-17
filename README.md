@@ -1,2 +1,0 @@
-# SnowPlow-Analytics
-Technical test 
